@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	width:100%;
+	height:600px;
+	background:#000;}
+.box1{
+	width:50%;
+	height:700px;
+	background:#033;
+	float:left;}
+.box2{
+	width:50%;
+	height:250px;
+	background:;
+	float:left;}
+h1{
+	margin-left:20px;
+	color:#FFF;}
+p{
+	margin-left:20px;
+	color:#060;}
+.pbox{
+	margin-left:20px;
+	color:#FFF;}
+.mainbox{
+	width:50%;
+	height:400px;
+	background-color:#000;
+	float:left;}
+.box4{
+	width:50%;
+	height:200px;
+	background:;
+	float:left;}
+.box5{
+	width:50%;
+	height:200px;
+	background:;
+	float:left;}
+.box6{
+	width:50%;
+	height:200px;
+	background:;
+	float:left;
+	}
+h2{
+	color:#FFF;
+	margin-left:20px;}	
+i{
+	font-size:36px;
+	margin-left:20px;
+	margin-top:10px;
+	color:#060;}
+h3{
+	margin-left:20px;
+	color:#FFF;}
+.txtbox{
+	color:#FFF;}
+.box7{
+	width:50%;
+	height:200px;
+	background:;
+	float:left;}
+	
+
+
+											
